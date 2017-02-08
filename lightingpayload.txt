@@ -1,0 +1,159 @@
+FIRST :::::: {
+  "hookResponse": {
+    "new": [
+      {
+        "attributes": {
+          "type": "Lead",
+          "url": "/services/data/v38.0/sobjects/Lead/00Q2800000RlMDKEA3"
+        },
+        "Status": "Working - Contacted",
+        "LastModifiedDate": "2016-11-08T06:51:08.000+0000",
+        "Company": "ABC",
+        "IsDeleted": false,
+        "DoNotCall": false,
+        "IsConverted": false,
+        "FirstName": "Chenna",
+        "IsUnreadByOwner": false,
+        "HasOptedOutOfEmail": false,
+        "HasOptedOutOfFax": false,
+        "Salutation": "Mr.",
+        "SystemModstamp": "2016-11-08T06:51:08.000+0000",
+        "CleanStatus": "Pending",
+        "CreatedById": "00528000004oFyIAAU",
+        "CreatedByID": "00528000004oFyIAAU",
+        "OwnerId": "00528000004oFyIAAU",
+        "CreatedDate": "2016-11-08T06:51:08.000+0000",
+        "Id": "00Q2800000RlMDKEA3",
+        "LastName": "Kesava",
+        "LastModifiedByID": "00528000004oFyIAAU",
+        "LastModifiedById": "00528000004oFyIAAU",
+        "LastTransferDate": "2016-11-08"
+      }
+    ],
+    "old": [
+      {
+        "attributes": {
+          "type": "Lead",
+          "url": "/services/data/v38.0/sobjects/Lead/00Q2800000RlMDKEA3"
+        },
+        "Status": "Working - Contacted",
+        "LastModifiedDate": "2016-11-08T06:51:08.000+0000",
+        "Company": "ABC",
+        "IsDeleted": false,
+        "DoNotCall": false,
+        "IsConverted": false,
+        "FirstName": "Chenna",
+        "IsUnreadByOwner": false,
+        "HasOptedOutOfEmail": false,
+        "HasOptedOutOfFax": false,
+        "Salutation": "Mr.",
+        "SystemModstamp": "2016-11-08T06:51:08.000+0000",
+        "CleanStatus": "Pending",
+        "CreatedById": "00528000004oFyIAAU",
+        "CreatedByID": "00528000004oFyIAAU",
+        "OwnerId": "00528000004oFyIAAU",
+        "CreatedDate": "2016-11-08T06:51:08.000+0000",
+        "Id": "00Q2800000RlMDKEA3",
+        "LastName": "Kesava",
+        "LastModifiedByID": "00528000004oFyIAAU",
+        "LastModifiedById": "00528000004oFyIAAU",
+        "LastTransferDate": "2016-11-08"
+      }
+    ],
+    "baseURL": "https://ap2.salesforce.com",
+    "userName": "Rajasekhar vendidandi"
+  },
+  "userEvents": "{\"notifications\":[\"triggerCreated\",\"triggerUpdated\",\"triggerDeleted\"],\"displayName\":\"sf-lead\",\"object\":\"lead\",\"webhookUrl\":\"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0\"}",
+  "instanceDetails": {
+    "instanceId": 7590,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0MzOTkxMzY0ZGFmOTk5YmM3ZWI1OGYzNTdiOWY1MjdjMDRhZmNlYzYxMjliMjRmZDI2NzQzNzFmYzlmYTczNTIy",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYTA0YzVkMy0yNGJjLTQ1ZWItYmQzYS05ZDU1OGRmMmZhMjI",
+    "updatedDate": "2016-11-08T06:27:29",
+    "messageFormat": "Salesforce :BotHello...",
+    "createdDate": "2016-11-08T06:27:29",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMjNmM2ExOTAtMzIxNS0xMWU2LTk2ZDgtOTFjYTk1OTY4ZDU1",
+    "configJson": "{\"notifications\":[\"triggerCreated\",\"triggerUpdated\",\"triggerDeleted\"],\"displayName\":\"sf-lead\",\"object\":\"lead\",\"webhookUrl\":\"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0\"}",
+    "instanceUuid": "581a1190-a57c-11e6-910d-061a8dddbab0"
+  }
+}
+12:21:33.425     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+{hookResponse={new=[{attributes={type=Lead, url=/services/data/v38.0/sobjects/Lead/00Q2800000RlMDKEA3}, Status=Working - Contacted, LastModifiedDate=2016-11-08T06:51:08.000+0000, Company=ABC, IsDeleted=false, DoNotCall=false, IsConverted=false, FirstName=Chenna, IsUnreadByOwner=false, HasOptedOutOfEmail=false, HasOptedOutOfFax=false, Salutation=Mr., SystemModstamp=2016-11-08T06:51:08.000+0000, CleanStatus=Pending, CreatedById=00528000004oFyIAAU, CreatedByID=00528000004oFyIAAU, OwnerId=00528000004oFyIAAU, CreatedDate=2016-11-08T06:51:08.000+0000, Id=00Q2800000RlMDKEA3, LastName=Kesava, LastModifiedByID=00528000004oFyIAAU, LastModifiedById=00528000004oFyIAAU, LastTransferDate=2016-11-08}], old=[{attributes={type=Lead, url=/services/data/v38.0/sobjects/Lead/00Q2800000RlMDKEA3}, Status=Working - Contacted, LastModifiedDate=2016-11-08T06:51:08.000+0000, Company=ABC, IsDeleted=false, DoNotCall=false, IsConverted=false, FirstName=Chenna, IsUnreadByOwner=false, HasOptedOutOfEmail=false, HasOptedOutOfFax=false, Salutation=Mr., SystemModstamp=2016-11-08T06:51:08.000+0000, CleanStatus=Pending, CreatedById=00528000004oFyIAAU, CreatedByID=00528000004oFyIAAU, OwnerId=00528000004oFyIAAU, CreatedDate=2016-11-08T06:51:08.000+0000, Id=00Q2800000RlMDKEA3, LastName=Kesava, LastModifiedByID=00528000004oFyIAAU, LastModifiedById=00528000004oFyIAAU, LastTransferDate=2016-11-08}], baseURL=https://ap2.salesforce.com, userName=Rajasekhar vendidandi}, userEvents={"notifications":["triggerCreated","triggerUpdated","triggerDeleted"],"displayName":"sf-lead","object":"lead","webhookUrl":"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0"}, instanceDetails={instanceId=7590, integrationId=Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0MzOTkxMzY0ZGFmOTk5YmM3ZWI1OGYzNTdiOWY1MjdjMDRhZmNlYzYxMjliMjRmZDI2NzQzNzFmYzlmYTczNTIy, userId=Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYTA0YzVkMy0yNGJjLTQ1ZWItYmQzYS05ZDU1OGRmMmZhMjI, updatedDate=2016-11-08T06:27:29, messageFormat=Salesforce :BotHello..., createdDate=2016-11-08T06:27:29, status=ACTIVE, channelId=Y2lzY29zcGFyazovL3VzL1JPT00vMjNmM2ExOTAtMzIxNS0xMWU2LTk2ZDgtOTFjYTk1OTY4ZDU1, configJson={"notifications":["triggerCreated","triggerUpdated","triggerDeleted"],"displayName":"sf-lead","object":"lead","webhookUrl":"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0"}, instanceUuid=581a1190-a57c-11e6-910d-061a8dddbab0}}
+12:21:33.438     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+IN ACCOUNT UPDATE FLOW
+12:21:33.470     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+LOGGER :::::: com.mulesoft.weave.reader.ByteArraySeekableStream@1c3de4ba ::::::::: null
+12:21:33.493     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+FIELD VALUES ::::::::::::::: 
+ - Lead First Name : **Chenna** 
+ - Lead Owner : **Rajasekhar vendidandi**
+12:21:33.494     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+post message :::::::::: Lead **[Kesava](https://ap2.salesforce.com//00Q2800000RlMDKEA3)**  from company ABC updated by user **[Rajasekhar vendidandi](https://ap2.salesforce.com//00Q2800000RlMDKEA3)**  
+ - Lead First Name : **Chenna** 
+ - Lead Owner : **Rajasekhar vendidandi**
+12:21:49.790     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+FIRST :::::: {
+  "hookResponse": {
+    "new": [
+      {
+        "attributes": {
+          "type": "Lead",
+          "url": "/services/data/v38.0/sobjects/Lead/00Q2800000RlMDKEA3"
+        },
+        "Status": "Working - Contacted",
+        "LastModifiedDate": "2016-11-08T06:51:08.000+0000",
+        "Company": "ABC",
+        "IsDeleted": false,
+        "DoNotCall": false,
+        "IsConverted": false,
+        "FirstName": "Chenna",
+        "IsUnreadByOwner": true,
+        "HasOptedOutOfEmail": false,
+        "HasOptedOutOfFax": false,
+        "Salutation": "Mr.",
+        "SystemModstamp": "2016-11-08T06:51:08.000+0000",
+        "InternalSource": "4",
+        "CleanStatus": "Pending",
+        "CreatedById": "00528000004oFyIAAU",
+        "CreatedByID": "00528000004oFyIAAU",
+        "OwnerId": "00528000004oFyIAAU",
+        "CreatedDate": "2016-11-08T06:51:08.000+0000",
+        "Id": "00Q2800000RlMDKEA3",
+        "LastName": "Kesava",
+        "LastModifiedByID": "00528000004oFyIAAU",
+        "LastModifiedById": "00528000004oFyIAAU",
+        "LastTransferDate": "2016-11-08"
+      }
+    ],
+    "old": [
+      
+    ],
+    "baseURL": "https://ap2.salesforce.com",
+    "userName": "Rajasekhar vendidandi"
+  },
+  "userEvents": "{\"notifications\":[\"triggerCreated\",\"triggerUpdated\",\"triggerDeleted\"],\"displayName\":\"sf-lead\",\"object\":\"lead\",\"webhookUrl\":\"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0\"}",
+  "instanceDetails": {
+    "instanceId": 7590,
+    "integrationId": "Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0MzOTkxMzY0ZGFmOTk5YmM3ZWI1OGYzNTdiOWY1MjdjMDRhZmNlYzYxMjliMjRmZDI2NzQzNzFmYzlmYTczNTIy",
+    "userId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYTA0YzVkMy0yNGJjLTQ1ZWItYmQzYS05ZDU1OGRmMmZhMjI",
+    "updatedDate": "2016-11-08T06:27:29",
+    "messageFormat": "Salesforce :BotHello...",
+    "createdDate": "2016-11-08T06:27:29",
+    "status": "ACTIVE",
+    "channelId": "Y2lzY29zcGFyazovL3VzL1JPT00vMjNmM2ExOTAtMzIxNS0xMWU2LTk2ZDgtOTFjYTk1OTY4ZDU1",
+    "configJson": "{\"notifications\":[\"triggerCreated\",\"triggerUpdated\",\"triggerDeleted\"],\"displayName\":\"sf-lead\",\"object\":\"lead\",\"webhookUrl\":\"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0\"}",
+    "instanceUuid": "581a1190-a57c-11e6-910d-061a8dddbab0"
+  }
+}
+12:21:49.791     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+{hookResponse={new=[{attributes={type=Lead, url=/services/data/v38.0/sobjects/Lead/00Q2800000RlMDKEA3}, Status=Working - Contacted, LastModifiedDate=2016-11-08T06:51:08.000+0000, Company=ABC, IsDeleted=false, DoNotCall=false, IsConverted=false, FirstName=Chenna, IsUnreadByOwner=true, HasOptedOutOfEmail=false, HasOptedOutOfFax=false, Salutation=Mr., SystemModstamp=2016-11-08T06:51:08.000+0000, InternalSource=4, CleanStatus=Pending, CreatedById=00528000004oFyIAAU, CreatedByID=00528000004oFyIAAU, OwnerId=00528000004oFyIAAU, CreatedDate=2016-11-08T06:51:08.000+0000, Id=00Q2800000RlMDKEA3, LastName=Kesava, LastModifiedByID=00528000004oFyIAAU, LastModifiedById=00528000004oFyIAAU, LastTransferDate=2016-11-08}], old=[], baseURL=https://ap2.salesforce.com, userName=Rajasekhar vendidandi}, userEvents={"notifications":["triggerCreated","triggerUpdated","triggerDeleted"],"displayName":"sf-lead","object":"lead","webhookUrl":"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0"}, instanceDetails={instanceId=7590, integrationId=Y2lzY29zcGFyazovL3VzL0FQUExJQ0FUSU9OL0MzOTkxMzY0ZGFmOTk5YmM3ZWI1OGYzNTdiOWY1MjdjMDRhZmNlYzYxMjliMjRmZDI2NzQzNzFmYzlmYTczNTIy, userId=Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYTA0YzVkMy0yNGJjLTQ1ZWItYmQzYS05ZDU1OGRmMmZhMjI, updatedDate=2016-11-08T06:27:29, messageFormat=Salesforce :BotHello..., createdDate=2016-11-08T06:27:29, status=ACTIVE, channelId=Y2lzY29zcGFyazovL3VzL1JPT00vMjNmM2ExOTAtMzIxNS0xMWU2LTk2ZDgtOTFjYTk1OTY4ZDU1, configJson={"notifications":["triggerCreated","triggerUpdated","triggerDeleted"],"displayName":"sf-lead","object":"lead","webhookUrl":"https://cisco-spark-integration-management-new-dev.cloudhub.io/api/hooks/581a1190-a57c-11e6-910d-061a8dddbab0"}, instanceUuid=581a1190-a57c-11e6-910d-061a8dddbab0}}
+12:21:49.792     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+IN LEAD Create FLOW
+12:21:49.813     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+FIELD VALUES ::::::::::::::: 
+ - First Name : **Chenna** 
+ - Lead Owner : **Rajasekhar vendidandi**
+12:21:49.813     11/08/2016     Worker-0     [cisco-spark-salesforce-integration-dev].api-httpListenerConfig.worker.11     INFO
+post message :::::::::: Lead with last name **[Kesava](https://ap2.salesforce.com//00Q2800000RlMDKEA3)**  from company ABC created by **[Rajasekhar vendidandi](https://ap2.salesforce.com//00Q2800000RlMDKEA3)**  with Lead status as Working - Contacted 
+ - First Name : **Chenna** 
+ - Lead Owner : **Rajasekhar vendidandi** 
