@@ -1,0 +1,34 @@
+Affects Version/s
+Assignee
+Attachment
+Comment
+Component/s ---
+Description
+Due Date
+Environment
+Epic Link  --
+Epic Name   --
+Fix Version/s
+Issue Type
+Labels
+Linked Issues  --
+Log Work      --
+Priority
+Reporter
+Resolution   --
+Security Level   --
+Sprint
+Summary
+Time Tracking
+Tirapa, The above can be seen in JIRA schema
+
+
+
+
+Issue list:
+
+timeoriginalestimate update: 3600 (Space should be the words)
+
+Version update
+Version update: Jellubean4.5
+Version update: from Version1.0 to null
