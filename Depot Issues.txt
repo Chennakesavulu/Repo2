@@ -1,0 +1,99 @@
+Pagerduty
+Trello --Notifications are not posted
+DropBox -- notfications are not posted
+GoogleDrive -  Notifications are not posted for All Folders
+specfic file dual notifications for delete
+O365----Dual notifications for Post remainder & Day remainders
+mailchimp
+codeship
+Wunderlist
+Asana-----  
+
+
+
+
+Depot
+Asana
+GoogleDrive ---Dual notifications for folder create (All folders & files)
+            ---Messages are not posting to spark in All folders scenario
+GoogleCalender ----Dual notifications posted for day remainders
+
+Twitter -----Direct messages not posted
+
+
+ashok_palaki
+@$3hokkuMaR
+
+
+
+
+
+Wunderlist:
+
+09984210-afba-11e6-a266-1217b3371fbc
+
+Trello:
+
+bb98ccf0-afba-11e6-a266-1217b3371fbc
+
+Uservioce:
+
+https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/a70f4600-afbb-11e6-a3ca-0afa03b1b67e
+
+a70f4600-afbb-11e6-a3ca-0afa03b1b67e
+
+Stripe:
+
+https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/18595940-afbc-11e6-8bdc-0a8412636d24
+
+18595940-afbc-11e6-8bdc-0a8412636d24
+
+Smartsheet:
+
+2151af60-afbd-11e6-a266-1217b3371fbc
+
+Salesforce:Accout Object
+
+
+https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/a0d76810-afbd-11e6-9594-0aeea3cbdc0c
+
+a0d76810-afbd-11e6-9594-0aeea3cbdc0c
+
+Pagerduty:
+
+https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/33ba34a0-afc8-11e6-9a5d-125efa2e69d0
+
+33ba34a0-afc8-11e6-9a5d-125efa2e69d0
+
+Papertrail:
+
+https://cisco-spark-integration-management-ext.cloudhub.io/api/hooks/8e8268d0-afc8-11e6-aa7a-0a1b2bc70602
+
+8e8268d0-afc8-11e6-aa7a-0a1b2bc70602
+
+Newrelic
+
+https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/06927e50-afc9-11e6-baeb-12d2a939bdf8
+
+06927e50-afc9-11e6-baeb-12d2a939bdf8
+
+Mailchimp:
+
+8b6b2140-afc9-11e6-a266-1217b3371fbc
+
+Jenkins:
+
+http://cisco-spark-integration-management-ext.cloudhub.io/api/hooks/0a8a9e10-afca-11e6-8c79-12bb6f2024da
+
+0a8a9e10-afca-11e6-8c79-12bb6f2024da
+
+Jira:
+
+https://cisco-spark-integration-management-webhook.cloudhub.io/api/hooks/1518b9f3-afcc-11e6-aa9a-12bd18a9fc0e
+
+1518b9f3-afcc-11e6-aa9a-12bd18a9fc0e
+
+Servicenow:
+
+692af170-afcc-11e6-89eb-0e90443c8577
+
